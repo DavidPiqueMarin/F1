@@ -231,7 +231,7 @@ int main()
                             j= j+1;
                             restantes = restantes -1;
                             ngpcCopia[i] = -1;
-                            ngpcCopia[i]
+                            ngpcCopia[i];
                         }
                       
                         
@@ -246,12 +246,7 @@ int main()
             quierosalir = true;
         }
     }
-    
-    
-    
-    
-    
-    
+    //comentario para probar el github
     return 0;
 }
 
